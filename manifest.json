@@ -1,0 +1,38 @@
+{
+  "name": "Kabar Korupsi",
+  "short_name": "KabarKorup",
+  "start_url": "https://kabarkorupsi.com/",
+  "display": "black",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "description": "Kabar Korupsi, Berita Korupsi Hari ini, Korupsi Terbaru, Ahok, Anti Korupsi, Bencana, Berita Foto, Berita Korupsi, Berita Utama, Berita Video, Dana Bos, Dana Desa, Dinas Bina Marga, e-KTP, Headline, Hukum Mati, Hukum Mati Koruptor, Info CPNS, Jokowi, Kasus e-KTP, Kasus Korupsi, Kasus Korupsi e-KTP, Kasus Teror, Kesehatan, Korupsi, Korupsi Bencana, KPK, KPU, Nasional, Novel Baswedan, Pajak, Peristiwa, Pilkada 2020, Politik, Presiden Jokowi, Proyek, Sidang Korupsi, Siswa SMK, Tersangka Korupsi, Tindak Pidana Korupsi, Topik Utama, Uang Korupsi, Uang Negara, UU Tipikor",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-lOcmcqoXwy8/XgfLsNEjA7I/AAAAAAAAFHY/hiqpI0JKLv8CdpWudh0-ZFnKHvExYvnHACLcBGAsYHQ/s48/logo-kk.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lOcmcqoXwy8/XgfLsNEjA7I/AAAAAAAAFHY/hiqpI0JKLv8CdpWudh0-ZFnKHvExYvnHACLcBGAsYHQ/s72/logo-kk.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lOcmcqoXwy8/XgfLsNEjA7I/AAAAAAAAFHY/hiqpI0JKLv8CdpWudh0-ZFnKHvExYvnHACLcBGAsYHQ/s96/logo-kk.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lOcmcqoXwy8/XgfLsNEjA7I/AAAAAAAAFHY/hiqpI0JKLv8CdpWudh0-ZFnKHvExYvnHACLcBGAsYHQ/s144/logo-kk.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lOcmcqoXwy8/XgfLsNEjA7I/AAAAAAAAFHY/hiqpI0JKLv8CdpWudh0-ZFnKHvExYvnHACLcBGAsYHQ/s168/logo-kk.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lOcmcqoXwy8/XgfLsNEjA7I/AAAAAAAAFHY/hiqpI0JKLv8CdpWudh0-ZFnKHvExYvnHACLcBGAsYHQ/s192/logo-kk.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lOcmcqoXwy8/XgfLsNEjA7I/AAAAAAAAFHY/hiqpI0JKLv8CdpWudh0-ZFnKHvExYvnHACLcBGAsYHQ/s512/logo-kk.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
